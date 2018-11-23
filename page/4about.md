@@ -11,16 +11,14 @@ type: page
 
 ## 关于我
 
-<iframe src="https://githubbadge.appspot.com/CrisJk" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://githubbadge.appspot.com/hahasdnu1029" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 
 ## 联系我
 
-* GitHub：CrisJk
-* email：junkuang163@163.com
-* [Weibo](http://weibo.com/1739397143/)
-* [知乎](https://www.zhihu.com/people/kuangjun-81)
-* [Facebook](https://www.facebook.com/jun.kuang.338)
+* GitHub：hahasdnu1029
+* email：yangpengyu@ict.ac.cn
+
 
 
 ## 友情链接
